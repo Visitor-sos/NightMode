@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controls</key>
+	<array>
+		<string>body</string>
+		<string>div</string>
+		<string>section</string>
+		<string>ul</string>
+		<string>li</string>
+		<string>a</string>
+		<string>h1</string>
+		<string>h2</string>
+		<string>h3</string>
+		<string>p</string>
+		<string>link</string>
+		<string>textarea</string>
+		<string>form</string>
+		<string>select</string>
+		<string>input</string>
+		<string>span</string>
+		<string>button</string>
+		<string>i</string>
+		<string>em</string>
+		<string>menu</string>
+		<string>aside</string>
+		<string>table</string>
+		<string>tr</string>
+		<string>td</string>
+		<string>nav</string>
+		<string>img</string>
+		<string>dl</string>
+		<string>dt</string>
+		<string>dd</string>
+	</array>
+</dict>
+</plist>
