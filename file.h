@@ -1,0 +1,5 @@
+
+@interface file : NSObject 
+
+
+@end
